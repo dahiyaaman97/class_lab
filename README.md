@@ -1,2 +1,2 @@
 # class_lab
-python program
+python program to print the fibonacci series.
